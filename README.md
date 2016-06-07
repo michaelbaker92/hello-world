@@ -2,4 +2,4 @@
 
 My first repository
 
-Testing 123.
+Hey Githubbers, just gettings started here. I'm a PHP and ruby programmer and enthusiastic llama herder. 
